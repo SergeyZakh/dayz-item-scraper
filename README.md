@@ -63,3 +63,6 @@ Perfect for **DayZ content creators** and **mod developers**! 🎯
 If you want to support me - I would appreciate a Donation.
 
 (https://paypal.me/acasahar?country.x=DE&locale.x=de_DE)
+
+Here you can download the whole DayZ 700+ icon pack for free:
+(https://drive.google.com/file/d/1xmlYpviuShlUPUziMOB1awmSjZqrj3OD/view?usp=sharing)
