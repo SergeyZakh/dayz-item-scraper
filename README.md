@@ -62,4 +62,4 @@ Perfect for **DayZ content creators** and **mod developers**! 🎯
 
 If you want to support me - I would appreciate a Donation.
 
-paypal.me/acasahar?country.x=DE&locale.x=de_DE
+(https://paypal.me/acasahar?country.x=DE&locale.x=de_DE)
