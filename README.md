@@ -1,12 +1,17 @@
-# DayZ Item Icon Scraper
+# 🎮 DayZ Item Scraper
 
-[![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
+[![CI/CD Pipeline](https://github.com/SergeyZakh/dayz-item-scraper/workflows/DayZ%20Item%20Scraper%20CI%2FCD/badge.svg)](https://github.com/SergeyZakh/dayz-item-scraper/actions)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/your-username/dayz-item-scraper/graphs/commit-activity)
+[![GitHub release](https://img.shields.io/github/release/SergeyZakh/dayz-item-scraper.svg)](https://github.com/SergeyZakh/dayz-item-scraper/releases/)
+[![Downloads](https://img.shields.io/github/downloads/SergeyZakh/dayz-item-scraper/total.svg)](https://github.com/SergeyZakh/dayz-item-scraper/releases)
+[![Stars](https://img.shields.io/github/stars/SergeyZakh/dayz-item-scraper.svg?style=social&label=Star)](https://github.com/SergeyZakh/dayz-item-scraper)
 
-A comprehensive Python web scraper that automatically downloads **all item icons** from the [DayZ Fandom Wiki](https://dayz.fandom.com). This tool extracts high-quality item images and organizes them into a logical folder structure based on the wiki's own categorization system.
+A comprehensive Python web scraper that automatically downloads **ALL DayZ item icons** from the [DayZ Fandom Wiki](https://dayz.fandom.com). This professional-grade tool extracts high-quality item images and organizes them into a logical folder structure based on the wiki's own categorization system.
 
-## Features
+> 🎯 **Perfect for DayZ content creators, mod developers, and community projects!**
+
+## ✨ Features
 
 - **Complete Coverage**: Scrapes 37+ item categories covering weapons, equipment, clothing, food, medical supplies, and more
 - **Intelligent Organization**: Automatically organizes downloaded images into hierarchical folders (e.g., `Weapons/Assault_Rifles/`, `Equipment/Backpacks/`)
