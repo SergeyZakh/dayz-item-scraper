@@ -8,7 +8,6 @@ based on their wiki categories.
 
 Author: Community Project
 License: MIT
-Repository: https://github.com/your-username/dayz-item-scraper
 Version: 1.0.0
 """
 
